@@ -37,7 +37,7 @@ export default function Footer(props) {
                 className={classes.block}
                 target="_blank"
               >
-                Creative Tim
+                Sign up
               </a>
             </ListItem>
             <ListItem className={classes.inlineBlock}>
@@ -46,7 +46,7 @@ export default function Footer(props) {
                 className={classes.block}
                 target="_blank"
               >
-                About us
+                Log in
               </a>
             </ListItem>
             <ListItem className={classes.inlineBlock}>
@@ -55,7 +55,7 @@ export default function Footer(props) {
                 className={classes.block}
                 target="_blank"
               >
-                Blog
+                Contact Us
               </a>
             </ListItem>
             <ListItem className={classes.inlineBlock}>
@@ -72,13 +72,7 @@ export default function Footer(props) {
         <div className={classes.right}>
           &copy; {1900 + new Date().getYear()} , made with{" "}
           <Favorite className={classes.icon} /> by{" "}
-          <a
-            href="https://www.creative-tim.com?ref=mkr-footer"
-            className={aClasses}
-            target="_blank"
-          >
-            Creative Tim
-          </a>{" "}
+            the Supreme Leader{" "}
           for a better web.
         </div>
       </div>

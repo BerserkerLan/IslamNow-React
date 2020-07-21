@@ -53,7 +53,11 @@ export default function WorkSection() {
                   }}
                 />
               </GridItem>
-              <GridItem xs={12} sm={12} md={4}>
+              <GridItem style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+              }}>
                 <Button color="primary">Sign Up</Button>
               </GridItem>
             </GridContainer>
