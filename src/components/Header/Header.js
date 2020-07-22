@@ -16,7 +16,7 @@ import Menu from "@material-ui/icons/Menu";
 // core components
 import styles from "assets/jss/material-kit-react/components/headerStyle.js";
 import "assets/css/custom.css"
-import logo from "assets/img/islam_logo.jpg"
+import logo from "assets/img/islam_logo.png"
 
 const useStyles = makeStyles(styles);
 
