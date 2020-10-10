@@ -17,7 +17,7 @@ import HeaderLinks from "components/Header/HeaderLinks.js";
 import NavPills from "components/NavPills/NavPills.js";
 import Parallax from "components/Parallax/Parallax.js";
 
-import profile from "assets/img/faces/christian.jpg";
+import profile from "assets/img/faces/edinburgh-masjid.jpg";
 
 import studio1 from "assets/img/examples/studio-1.jpg";
 import studio2 from "assets/img/examples/studio-2.jpg";
@@ -67,8 +67,8 @@ export default function ProfilePage(props) {
                     <img src={profile} alt="..." className={imageClasses} />
                   </div>
                   <div className={classes.name}>
-                    <h3 className={classes.title}>Christian Louboutin</h3>
-                    <h6>DESIGNER</h6>
+                    <h3 className={classes.title}>Edinburgh Central Masjid</h3>
+                    <h6>Edinburgh</h6>
                     <Button justIcon link className={classes.margin5}>
                       <i className={"fab fa-twitter"} />
                     </Button>
@@ -84,10 +84,7 @@ export default function ProfilePage(props) {
             </GridContainer>
             <div className={classes.description}>
               <p>
-                An artist of considerable range, Chet Faker — the name taken by
-                Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs
-                and records all of his own music, giving it a warm, intimate
-                feel with a solid groove structure.{" "}
+                Welcome to your Masjid dashboard! Here you can manage your timetables and updates easily.{" "}
               </p>
             </div>
             <GridContainer justify="center">
@@ -97,7 +94,7 @@ export default function ProfilePage(props) {
                   color="primary"
                   tabs={[
                     {
-                      tabButton: "Studio",
+                      tabButton: "This Month's Timetable",
                       tabIcon: Camera,
                       tabContent: (
                         <GridContainer justify="center">
@@ -129,7 +126,7 @@ export default function ProfilePage(props) {
                       )
                     },
                     {
-                      tabButton: "Work",
+                      tabButton: "Your timetable schedule",
                       tabIcon: Palette,
                       tabContent: (
                         <GridContainer justify="center">
@@ -166,7 +163,7 @@ export default function ProfilePage(props) {
                       )
                     },
                     {
-                      tabButton: "Favorite",
+                      tabButton: "Statistics",
                       tabIcon: Favorite,
                       tabContent: (
                         <GridContainer justify="center">
