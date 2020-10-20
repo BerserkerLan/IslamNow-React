@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b35e682259316edae88fbf1ddb213eee",
+    "revision": "b83a2ca7b182b2a557de1051b1c24b89",
     "url": "/IslamNow-React/index.html"
   },
   {
-    "revision": "559d81cd1ab5dd6b082a",
+    "revision": "254c0401969119b55a51",
     "url": "/IslamNow-React/static/css/main.d65757ed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IslamNow-React/static/js/2.ffff3682.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "559d81cd1ab5dd6b082a",
-    "url": "/IslamNow-React/static/js/main.3d738dd9.chunk.js"
+    "revision": "254c0401969119b55a51",
+    "url": "/IslamNow-React/static/js/main.90a7fa50.chunk.js"
   },
   {
     "revision": "ec782fe7ca5edaf6599c",
