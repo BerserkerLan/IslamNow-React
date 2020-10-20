@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20caed0538d352a8abfbcf04d33fe401",
+    "revision": "b35e682259316edae88fbf1ddb213eee",
     "url": "/IslamNow-React/index.html"
   },
   {

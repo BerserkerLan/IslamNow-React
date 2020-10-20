@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IslamNow-React/precache-manifest.e2edd6c9645ef72586e6d3816693109b.js"
+  "/IslamNow-React/precache-manifest.8a671232f25a7088fdb2f77ac0eea85e.js"
 );
 
 self.addEventListener('message', (event) => {
