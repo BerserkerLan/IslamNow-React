@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IslamNow-React/static/css/main.d65757ed.chunk.css",
-    "main.js": "/IslamNow-React/static/js/main.3d738dd9.chunk.js",
-    "main.js.map": "/IslamNow-React/static/js/main.3d738dd9.chunk.js.map",
+    "main.js": "/IslamNow-React/static/js/main.4b9a09ef.chunk.js",
+    "main.js.map": "/IslamNow-React/static/js/main.4b9a09ef.chunk.js.map",
     "runtime-main.js": "/IslamNow-React/static/js/runtime-main.7770d5fc.js",
     "runtime-main.js.map": "/IslamNow-React/static/js/runtime-main.7770d5fc.js.map",
     "static/js/2.ffff3682.chunk.js": "/IslamNow-React/static/js/2.ffff3682.chunk.js",
     "static/js/2.ffff3682.chunk.js.map": "/IslamNow-React/static/js/2.ffff3682.chunk.js.map",
     "index.html": "/IslamNow-React/index.html",
-    "precache-manifest.8a671232f25a7088fdb2f77ac0eea85e.js": "/IslamNow-React/precache-manifest.8a671232f25a7088fdb2f77ac0eea85e.js",
+    "precache-manifest.b6c18897f6c299ff4fc5ac19779d328c.js": "/IslamNow-React/precache-manifest.b6c18897f6c299ff4fc5ac19779d328c.js",
     "service-worker.js": "/IslamNow-React/service-worker.js",
     "static/css/main.d65757ed.chunk.css.map": "/IslamNow-React/static/css/main.d65757ed.chunk.css.map",
     "static/js/2.ffff3682.chunk.js.LICENSE.txt": "/IslamNow-React/static/js/2.ffff3682.chunk.js.LICENSE.txt",
@@ -50,6 +50,6 @@
     "static/js/runtime-main.7770d5fc.js",
     "static/js/2.ffff3682.chunk.js",
     "static/css/main.d65757ed.chunk.css",
-    "static/js/main.3d738dd9.chunk.js"
+    "static/js/main.4b9a09ef.chunk.js"
   ]
 }
