@@ -47,7 +47,7 @@ export default function ProfilePage(props) {
     <div>
       <Header
         color="transparent"
-        brand="Material Kit React"
+        brand="IslamNow - Helping Masjids to help others"
         rightLinks={<HeaderLinks />}
         fixed
         changeColorOnScroll={{

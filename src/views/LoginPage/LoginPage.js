@@ -37,7 +37,7 @@ export default function LoginPage(props) {
       <Header
         absolute
         color="transparent"
-        brand="Material Kit React"
+        brand="IslamNow - Helping Masjids to help others"
         rightLinks={<HeaderLinks />}
         {...rest}
       />
